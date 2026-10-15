@@ -1,5 +1,7 @@
 # Lista Fiado
 
+![Apresentação de Lista Fiado](assets/banner.png)
+
 **Controle de vendas a prazo e saldos por cliente.**
 
 Lista Fiado é uma solução Gentill em desenvolvimento, com interface em **português brasileiro** e foco em uso simples.
@@ -9,6 +11,12 @@ Lista Fiado é uma solução Gentill em desenvolvimento, com interface em **port
 - Anote vendas a prazo
 - Confira os saldos individuais
 - Registre pagamentos e baixas
+
+## Identidade visual
+
+![Ícone de Lista Fiado](assets/icon.png)
+
+[Ver peça comercial](assets/post.png)
 
 ## Desenvolvimento
 
